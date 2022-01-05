@@ -1,6 +1,6 @@
 # Boutique Ado
 
-[Live Site]()
+[Live Site](https://boutique-ado-carla-buongiorno.herokuapp.com/)
 
 ## User Stories
 ---
@@ -8,8 +8,8 @@
 - As a Shopper:
     - I want to be able to view a list of products so that I can select some to purchase.
     - I want to be able to view a specific category of products so that I can quickly find products I'm interested in without having to search through all products.
-    - I want to be able to view individual product details so that I can identify the price, description, prodict rating, product image and available sizes.
-    - I want to be able to quickly identify deals, clearance items and special offers so that I can take advantage of special sabings on products I'd like to purchase.
+    - I want to be able to view individual product details so that I can identify the price, description, product rating, product image and available sizes.
+    - I want to be able to quickly identify deals, clearance items and special offers so that I can take advantage of special savings on products I'd like to purchase.
     - I want to be able to easily view the total of my purchases at any time so that I can avoid spending too much.
 
 ---
