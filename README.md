@@ -1,6 +1,6 @@
 # Boutique Ado
 
-[Live Site](https://boutique-ado-carla-buongiorno.herokuapp.com/)
+[Live Site](https://boutique-ado-carla-buongiorno.onrender.com)
 
 ## User Stories
 ---
